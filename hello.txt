@@ -1,1 +1,1 @@
-"这是main分支不同的内容" 
+这是融合后的版本，包含 main 和 conflict-demo 的精华。
