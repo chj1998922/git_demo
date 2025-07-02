@@ -1,3 +1,1 @@
-"hello Git" 
-"Git is awesome!" 
-"this is a new feature from dev branch." 
+"这是main分支不同的内容" 
